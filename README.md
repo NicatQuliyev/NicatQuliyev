@@ -10,9 +10,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Php | C# | Java | Dart
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | Angular 2+ |
-- 🛢 &nbsp; MySQL | MongoDB | MSSQL
-- 🔧 &nbsp; Git
+- 🌐 &nbsp; HTML | CSS(SCSS/SASS/LESS) | JavaScript(TypeScript) | Bootstrap 3+/4+ | Node.js | Angular 2+ | ReactJS
+- 🛢 &nbsp; MySQL | MongoDB | MSSQL | Postgres
+- 🔧 &nbsp; Git | Postman
 - 🖥 &nbsp; Illustrator| Photoshop | Figma | XD
 
 <br/>
