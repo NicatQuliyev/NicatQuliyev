@@ -11,7 +11,7 @@
 
 - 💻 &nbsp; Php | C# | Java | Dart
 - 🌐 &nbsp; HTML | CSS(SCSS/SASS/LESS) | JavaScript(TypeScript) | Bootstrap 3+/4+ | Node.js | Angular 2+ | ReactJS
-- 🛢 &nbsp; MySQL | MongoDB | MSSQL | Postgres
+- 🛢 &nbsp; MySQL | MongoDB | MSSQL | Postgres | SQLite
 - 🔧 &nbsp; Git | Postman
 - 🖥 &nbsp; Illustrator| Photoshop | Figma | XD
 
