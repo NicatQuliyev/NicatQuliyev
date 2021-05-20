@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Php | C# | Java | Dart
+- 💻 &nbsp; Php | C# | Java | Dart | Phyton
 - 🌐 &nbsp; HTML | CSS(SCSS/SASS/LESS) | JavaScript(TypeScript) | Bootstrap 3+/4+ | Node.js | Angular 2+ | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB | MSSQL | Postgres | SQLite
 - 🔧 &nbsp; Git | Postman
