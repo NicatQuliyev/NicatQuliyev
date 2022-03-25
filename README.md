@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions, web apps, mobile apps and quick hacks.
-- 💼 &nbsp; Working as a Fullstack Web Developer at Optima Business Solutions MMC.
+- 💼 &nbsp; Working as a Web Development Team Lead at Optima Business Solutions MMC.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Game Development as hobbies/side hustles.
 
