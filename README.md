@@ -17,8 +17,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicatquliyev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
